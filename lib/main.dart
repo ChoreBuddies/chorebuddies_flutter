@@ -1,4 +1,4 @@
-import 'package:chorebuddies_flutter/pages/main_layout.dart';
+import 'package:chorebuddies_flutter/layout/main_layout.dart';
 import 'package:flutter/material.dart';
 
 void main() {
